@@ -1,0 +1,1 @@
+# access-of-arguements-without-parameter-in-js
